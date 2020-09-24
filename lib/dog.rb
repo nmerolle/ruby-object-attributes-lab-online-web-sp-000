@@ -13,7 +13,7 @@ class Dog
   end
   
   def breed
-    @name
+    @breed
   end
 
 end
